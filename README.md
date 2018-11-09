@@ -2,7 +2,7 @@
 
 Here you find the corresponding source code to my blog https://ipythonquant.wordpress.com
 
-- CreditCardFraud_Detection: 
+- CreditCardFraudDetection: 
 
 	Tutorial to develop a use deep learning to detect fraudulent credit card transactions from scratch using TensorFlow  Low Level API. A step-by-step introduction starting to build a Logistic Regression in TensorFlow to a Deep neural network
 
@@ -17,4 +17,5 @@ Here you find the corresponding source code to my blog https://ipythonquant.word
 - DeepHedging:
 
 	Use a deep neural networks to derive a model free option hedging strategy in TensorFlow.
+ 
 
